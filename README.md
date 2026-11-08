@@ -137,7 +137,15 @@ I'm an aspiring full-stack developer who enjoys turning real-world problems into
 
 <br />
 
-## 🎯 Current Focus
+### 📊 GitHub Statistics
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Izhan-kagzi&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🎯 Current Focus
 
 - 🏗️ Building strong full-stack projects end to end
 - 🔐 Improving backend architecture, security and real-time features
